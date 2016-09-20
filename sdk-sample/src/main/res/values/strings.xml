@@ -1,0 +1,14 @@
+<resources>
+    <string name="title_activity_example">Teste Dribbble</string>
+
+    <string name="action_bar_title">Dribbble SDK Example</string>
+    <string name="action_bar_log_in">logar</string>
+    <string name="action_bar_log_out">Sair</string>
+
+    <string name="example_activity_get_my_shots">Obter meus feeds</string>
+    <string name="example_activity_get_recent_shots">Obter meus 5 ultimos feeds</string>
+    <string name="example_activity_tv_start_text">Resultado</string>
+
+    <string name="toast_logged_in">"Logado"</string>
+    <string name="toast_logged_out">"Deslogado"</string>
+</resources>
